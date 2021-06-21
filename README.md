@@ -1,1 +1,1 @@
-# Car-Price-Prediction
+# Rock Paper Scissor Image Classifier
